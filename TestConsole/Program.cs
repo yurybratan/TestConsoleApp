@@ -9,6 +9,7 @@ namespace TestConsole {
         static void Main(string[] args) {
             Console.WriteLine("Hello Git 2");
             Console.WriteLine("Hello from Yury");
+            Console.WriteLine("Orest Is a nice guy");
         }
     }
 }
