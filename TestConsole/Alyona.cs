@@ -8,5 +8,6 @@ namespace TestConsole
 {
     class Alyona
     {
+        public int Id { get; set; }
     }
 }
