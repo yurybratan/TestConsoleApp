@@ -8,5 +8,6 @@ namespace TestConsole
 {
     class Alyona
     {
+        Console.WriteLine("Hi");
     }
 }
