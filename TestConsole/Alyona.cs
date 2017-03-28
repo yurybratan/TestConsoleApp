@@ -8,6 +8,6 @@ namespace TestConsole
 {
     class Alyona
     {
-        Console.WriteLine("Hi");
+        public int Id { get; set; }
     }
 }
