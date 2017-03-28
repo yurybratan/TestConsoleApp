@@ -8,6 +8,7 @@ namespace TestConsole {
     class Program {
         static void Main(string[] args) {
             Console.WriteLine("Good night");
+            Console.WriteLine("Orest Is a nice guy");
         }
     }
 }
