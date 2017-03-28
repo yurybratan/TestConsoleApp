@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace TestConsole
 {
-    class Alyona
+    class Svetlana
     {
-        public int Id { get; set; }
     }
 }
